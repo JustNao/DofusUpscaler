@@ -14,6 +14,10 @@ La modification est valable jusqu'à la prochaine mise à jour du jeu, (par le c
 > **Note**
 > Plus la résolution de votre écran est élevée, plus vous allez noter la différence. A 1080p c'est pas ouf.
 
+## Utilisation
+
+Par le script `update_textures.py` ou par l'éxecutable que vous trouvez dans les releases.
+
 ## Exemples
 
 <div align="center">
